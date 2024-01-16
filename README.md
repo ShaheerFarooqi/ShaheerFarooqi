@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning **React,Alpine,Tailwind**
 
 - 📫 How to reach me **shaheerfarooqi56@gmail.com**
+-  How to reach me **https://shaheerfarooqi.vercel.app/**
 
 - ⚡ Fun fact **I am funny**
 
